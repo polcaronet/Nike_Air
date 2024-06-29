@@ -1,4 +1,4 @@
-# Site do _`Nike-Air`_ idealizado  pelo professor _`Matheus Fraga`_
+# Site do _`Nike-Air`_
 **Esse foi mais um projeto aonde aprendi desde do zero a construção de um site pelo `Tailwindcss`, `Html e Js!`**
 ##
 **_`Meu site`_:**</div>
